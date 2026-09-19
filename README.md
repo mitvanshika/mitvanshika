@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 3rd-year B.Tech Computer Science student at GTBIT (GGSIPU), specializing in **Machine Learning & AI**
-- 💼 Currently working as an **Agentic AI Intern at Genpact**, building AP automation systems on the **Salesforce Cora** platform for Unilever — vendor detection, GL/CC auto-coding, and email-ingestion agents
+- 💼 Currently working as an **Agentic AI Intern at Genpact**, building AP automation systems on the **Salesforce Cora** platform for Unilever  vendor detection, GL/CC auto-coding, and email-ingestion agents
 - 🧠 Deep-diving into **LLM agents, RAG pipelines, and multi-agent orchestration** with LangChain / LangGraph
 - 🌱 Currently sharpening **DSA, system design, and cloud fundamentals (Docker, APIs)** to round out core SWE skills
 - 🎤 Social Media Lead, GDG On Campus GTBIT · Management Lead, DLC
@@ -81,7 +81,7 @@
 
 | Project | What it does | My Role |
 |---|---|---|
-| **[Production-Grade RAG System](https://github.com/samarth6/Financial-Due-Diligence)** | Internal-docs RAG system combining hybrid dense+sparse retrieval, verified/grounded actions, a self-healing retrieve → grade → retry loop, and confidence-scored answers over financial due-diligence documents. | Co-built with a fellow ML engineer — contributing the self-healing retrieval loop and financial-domain grounding |
+| **[Production-Grade RAG System](https://github.com/samarth6/Financial-Due-Diligence)** | Internal-docs RAG system combining hybrid dense+sparse retrieval, verified/grounded actions, a self-healing retrieve → grade → retry loop, and confidence-scored answers over financial due-diligence documents. | Co-built with a fellow ML engineer contributing the self-healing retrieval loop and financial-domain grounding |
 
 ---
 
