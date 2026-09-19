@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=B.Tech+CS+(AI%2FML)+%40+GTBIT;Agentic+AI+Intern+%40+Genpact;Building+LLM+%2B+RAG+systems;Open+to+Remote+SWE%2FML%2FMLOps+Roles" alt="Typing SVG" />
 </p>
+EMAIL: mitvanshika@gmail.com
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vanshika-mittal-28758730a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
